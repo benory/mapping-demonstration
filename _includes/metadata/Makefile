@@ -10,7 +10,7 @@
 ##              Type "make" in this directory to download the JSON files for the metadata.
 ##
 
-SID = AKfycbw1m89jJvH1Y2CB7yE_AFafyQrEcOh01yX-n_j01SxndXscN_spyvkYwfkBdjzQiWqHVQ
+MID = AKfycbw1m89jJvH1Y2CB7yE_AFafyQrEcOh01yX-n_j01SxndXscN_spyvkYwfkBdjzQiWqHVQ
 
 all: download
 
