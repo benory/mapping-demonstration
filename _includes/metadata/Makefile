@@ -17,4 +17,4 @@ all: download
 download: data
 
 data:
-	curl -L "https://script.google.com/macros/s/$(SID)/exec?sheet=data" > data.json
+	curl -L "https://script.google.com/macros/s/$(MID)/exec?sheet=data" > data.json
