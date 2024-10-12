@@ -1,0 +1,2 @@
+# Minimal _config-local.yml for local development
+baseurl: "" # Overrides the production baseurl
